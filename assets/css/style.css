@@ -79,3 +79,41 @@ body {
   width: 50%;
   padding: 3%;
 }
+.InitialD-container {
+  width: 80%;
+  float: right;
+  padding: 3%;
+}
+.InitialD-info {
+  width: 30%;
+  float: left;
+  position: relative;
+}
+.InitialD-content {
+  width: 65%;
+  float: left;
+  margin-left: 2.5%;
+}
+.InitialD-img {
+  width: 50%;
+  padding: 3%;
+}
+.Pluspy-container {
+  width: 80%;
+  float: right;
+  padding: 3%;
+}
+.Pluspy-info {
+  width: 30%;
+  float: left;
+  position: relative;
+}
+.Pluspy-content {
+  width: 65%;
+  float: left;
+  margin-left: 2.5%;
+}
+.Pluspy-img {
+  width: 50%;
+  padding: 3%;
+}
