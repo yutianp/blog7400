@@ -117,3 +117,22 @@ body {
   width: 50%;
   padding: 3%;
 }
+.machineHallucination-container {
+  width: 80%;
+  float: right;
+  padding: 3%;
+}
+.machineHallucination-info {
+  width: 30%;
+  float: left;
+  position: relative;
+}
+.machineHallucination-content {
+  width: 65%;
+  float: left;
+  margin-left: 2.5%;
+}
+.machineHallucination-img {
+  width: 50%;
+  padding: 3%;
+}
