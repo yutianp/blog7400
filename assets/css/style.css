@@ -136,6 +136,25 @@ body {
   width: 50%;
   padding: 3%;
 }
+.akina-container {
+  width: 80%;
+  float: right;
+  padding: 3%;
+}
+.akina-info {
+  width: 30%;
+  float: left;
+  position: relative;
+}
+.akina-content {
+  width: 65%;
+  float: left;
+  margin-left: 2.5%;
+}
+.akina-img {
+  width: 50%;
+  padding: 3%;
+}
 .map-container {
   width: 80%;
   float: right;
@@ -152,6 +171,50 @@ body {
   margin-left: 2.5%;
 }
 .map-img {
+  width: 50%;
+  padding: 3%;
+}
+.pacenotes-container {
+  width: 80%;
+  float: right;
+  padding: 3%;
+}
+.pacenotes-info {
+  width: 30%;
+  float: left;
+  position: relative;
+}
+.pacenotes-content {
+  width: 65%;
+  float: left;
+  margin-left: 2.5%;
+}
+.pacenotes-img {
+  width: 50%;
+  padding: 3%;
+}
+.tg  {border:none;border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kd1j{border-color:inherit;font-size:xx-small;text-align:left;vertical-align:top}
+.typeface-container {
+  width: 80%;
+  float: right;
+  padding: 3%;
+}
+.typeface-info {
+  width: 30%;
+  float: left;
+  position: relative;
+}
+.typeface-content {
+  width: 65%;
+  float: left;
+  margin-left: 2.5%;
+}
+.typeface-img {
   width: 50%;
   padding: 3%;
 }
