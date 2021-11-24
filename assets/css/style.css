@@ -218,3 +218,22 @@ body {
   width: 50%;
   padding: 3%;
 }
+.website-container {
+  width: 80%;
+  float: right;
+  padding: 3%;
+}
+.website-info {
+  width: 30%;
+  float: left;
+  position: relative;
+}
+.website-content {
+  width: 65%;
+  float: left;
+  margin-left: 2.5%;
+}
+.website-img {
+  width: 50%;
+  padding: 3%;
+}
